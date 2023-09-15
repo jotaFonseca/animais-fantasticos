@@ -1,4 +1,4 @@
-import scroll from "./modules/scroll-suave.js";
+import Scroll from "./modules/scroll-suave.js";
 import animationScroll from "./modules/scroll-animacao.js";
 import accordion from "./modules/accordion.js";
 import tabNav from "./modules/tabNav.js";
@@ -10,7 +10,9 @@ import funcionamneto from "./modules/funcionamento.js";
 import initFetchAnimais from "./modules/fetch-animais.js";
 import initFetchBitcoin from "./modules/fetch-bitcoin.js";
 
-scroll();
+const scroll = new Scroll('[data-menu="suave"] a[href^="#"]');
+scroll.init();
+
 animationScroll();
 accordion();
 tabNav();
