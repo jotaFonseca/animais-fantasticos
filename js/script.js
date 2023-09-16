@@ -3,12 +3,12 @@ import Accordion from "./modules/accordion.js";
 import TabNav from "./modules/tabNav.js";
 import Modal from "./modules/modal.js";
 import Tooltip from "./modules/tooltip.js";
+import ScrollAnima from "./modules/scroll-anima.js";
 import Dropdown from "./modules/dropdown.js";
 import MenuMobile from "./modules/menu-mobile.js";
 import Funcionamento from "./modules/funcionamento.js";
 import fetchAnimais from "./modules/fetch-animais.js";
 import fetchBitcoin from "./modules/fetch-bitcoin.js";
-import ScrollAnima from "./modules/scroll-anima.js";
 
 const scroll = new Scroll('[data-menu="suave"] a[href^="#"]');
 scroll.init();
