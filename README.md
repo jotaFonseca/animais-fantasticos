@@ -17,6 +17,6 @@ O intuito desse projeto foi de aplicar todo o conhecimento estudado no curso da 
     }
 ```
 
-- [ x ] ghasgsja
+- [x] ghasgsja
 
 - [ ] dhkjsahkdjsa
