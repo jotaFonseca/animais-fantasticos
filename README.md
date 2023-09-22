@@ -4,7 +4,7 @@ O intuito desse projeto foi de aplicar todo o conhecimento estudado no curso da 
 
 ## Funcionalidades
 
-1. Carrossel interativo;
-2. Site Responsivo;
-3. Utilização de fetch;
-4. etc
+* Carrossel interativo;
+*  Site Responsivo;
+* Utilização de fetch;
+* etc
