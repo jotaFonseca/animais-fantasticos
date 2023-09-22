@@ -8,3 +8,7 @@ O intuito desse projeto foi de aplicar todo o conhecimento estudado no curso da 
 * Site Responsivo;
 * Utilização de fetch;
 * etc
+
+## Imagem Teste
+
+![Imagem apenas para teste](img/imagem1.jpg)
