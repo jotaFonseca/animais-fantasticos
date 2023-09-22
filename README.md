@@ -11,4 +11,8 @@ O intuito desse projeto foi de aplicar todo o conhecimento estudado no curso da 
 
 ## Imagem Teste
 
-![Imagem apenas para teste](img/imagem1.jpg)
+```javascript
+    function soma(a,b) {
+        return a + b;
+    }
+```
